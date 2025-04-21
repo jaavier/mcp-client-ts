@@ -13,7 +13,7 @@ This project provides a command-line interface (CLI) client to interact with Ant
 
 1.  **Navigate to the Client Directory:**
     ```bash
-    cd clients/claude
+    cd mcp-client-ts
     ```
 
 2.  **Install Dependencies:**
